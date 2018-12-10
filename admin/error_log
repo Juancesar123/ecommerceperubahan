@@ -1,0 +1,432 @@
+[25-Aug-2017 04:59:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u3657196/public_html/premium/admin/controller/login.php on line 10
+[25-Aug-2017 04:59:27 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u3657196/public_html/premium/admin/controller/login.php on line 11
+[25-Aug-2017 04:59:27 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/u3657196/public_html/premium/admin/controller/login.php on line 12
+[25-Aug-2017 04:59:27 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 74
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 83
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 84
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 125
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 134
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 135
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 175
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 184
+[25-Aug-2017 04:59:34 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 185
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/page.php on line 7
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/page.php on line 8
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/page.php on line 31
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/page.php on line 40
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: tgl_publish in /home/u3657196/public_html/premium/admin/view/page.php on line 50
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/u3657196/public_html/premium/admin/view/page.php on line 57
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: tgl_publish in /home/u3657196/public_html/premium/admin/view/page.php on line 50
+[25-Aug-2017 04:59:45 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/u3657196/public_html/premium/admin/view/page.php on line 57
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/page-edit.php on line 8
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/u3657196/public_html/premium/admin/controller/page-edit.php on line 10
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined index: katakunci in /home/u3657196/public_html/premium/admin/controller/page-edit.php on line 11
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined index: isipage in /home/u3657196/public_html/premium/admin/controller/page-edit.php on line 12
+[25-Aug-2017 04:59:51 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/u3657196/public_html/premium/admin/view/page-edit.php on line 24
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/page.php on line 7
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/page.php on line 8
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/page.php on line 31
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/page.php on line 40
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: tgl_publish in /home/u3657196/public_html/premium/admin/view/page.php on line 50
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/u3657196/public_html/premium/admin/view/page.php on line 57
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: tgl_publish in /home/u3657196/public_html/premium/admin/view/page.php on line 50
+[25-Aug-2017 05:00:27 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/u3657196/public_html/premium/admin/view/page.php on line 57
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/profile.php on line 8
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: namatoko in /home/u3657196/public_html/premium/admin/controller/profile.php on line 9
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: slogan in /home/u3657196/public_html/premium/admin/controller/profile.php on line 10
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: telpon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 11
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: wa in /home/u3657196/public_html/premium/admin/controller/profile.php on line 12
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u3657196/public_html/premium/admin/controller/profile.php on line 13
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: alamat in /home/u3657196/public_html/premium/admin/controller/profile.php on line 14
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: logo in /home/u3657196/public_html/premium/admin/controller/profile.php on line 16
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined index: favicon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 19
+[25-Aug-2017 05:00:53 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/u3657196/public_html/premium/admin/view/profile.php on line 23
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: namatoko in /home/u3657196/public_html/premium/admin/view/profile.php on line 23
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: slogan in /home/u3657196/public_html/premium/admin/view/profile.php on line 31
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: telpon in /home/u3657196/public_html/premium/admin/view/profile.php on line 39
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: hp in /home/u3657196/public_html/premium/admin/view/profile.php on line 47
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u3657196/public_html/premium/admin/view/profile.php on line 55
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: alamat in /home/u3657196/public_html/premium/admin/view/profile.php on line 62
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: logo in /home/u3657196/public_html/premium/admin/view/profile.php on line 68
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: favicon in /home/u3657196/public_html/premium/admin/view/profile.php on line 74
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/profile.php on line 8
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: namatoko in /home/u3657196/public_html/premium/admin/controller/profile.php on line 9
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: slogan in /home/u3657196/public_html/premium/admin/controller/profile.php on line 10
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: telpon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 11
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: wa in /home/u3657196/public_html/premium/admin/controller/profile.php on line 12
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u3657196/public_html/premium/admin/controller/profile.php on line 13
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: alamat in /home/u3657196/public_html/premium/admin/controller/profile.php on line 14
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: logo in /home/u3657196/public_html/premium/admin/controller/profile.php on line 16
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined index: favicon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 19
+[25-Aug-2017 05:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/u3657196/public_html/premium/admin/view/profile.php on line 23
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: namatoko in /home/u3657196/public_html/premium/admin/view/profile.php on line 23
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: slogan in /home/u3657196/public_html/premium/admin/view/profile.php on line 31
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: telpon in /home/u3657196/public_html/premium/admin/view/profile.php on line 39
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: hp in /home/u3657196/public_html/premium/admin/view/profile.php on line 47
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u3657196/public_html/premium/admin/view/profile.php on line 55
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: alamat in /home/u3657196/public_html/premium/admin/view/profile.php on line 62
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: logo in /home/u3657196/public_html/premium/admin/view/profile.php on line 68
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: favicon in /home/u3657196/public_html/premium/admin/view/profile.php on line 74
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/profile.php on line 8
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: namatoko in /home/u3657196/public_html/premium/admin/controller/profile.php on line 9
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: slogan in /home/u3657196/public_html/premium/admin/controller/profile.php on line 10
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: telpon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 11
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: wa in /home/u3657196/public_html/premium/admin/controller/profile.php on line 12
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u3657196/public_html/premium/admin/controller/profile.php on line 13
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: alamat in /home/u3657196/public_html/premium/admin/controller/profile.php on line 14
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: logo in /home/u3657196/public_html/premium/admin/controller/profile.php on line 16
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined index: favicon in /home/u3657196/public_html/premium/admin/controller/profile.php on line 19
+[25-Aug-2017 05:02:54 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/u3657196/public_html/premium/admin/view/profile.php on line 23
+[25-Aug-2017 05:07:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u3657196/public_html/premium/admin/controller/login.php on line 10
+[25-Aug-2017 05:07:00 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u3657196/public_html/premium/admin/controller/login.php on line 11
+[25-Aug-2017 05:07:00 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/u3657196/public_html/premium/admin/controller/login.php on line 12
+[25-Aug-2017 05:07:00 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 74
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 83
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 84
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 125
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 134
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 135
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 175
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 184
+[25-Aug-2017 05:07:02 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 185
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/seo.php on line 8
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/u3657196/public_html/premium/admin/controller/seo.php on line 9
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/controller/seo.php on line 10
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined index: description in /home/u3657196/public_html/premium/admin/controller/seo.php on line 11
+[25-Aug-2017 05:07:05 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/u3657196/public_html/premium/admin/view/seo.php on line 22
+[25-Aug-2017 05:07:24 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 05:07:24 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/u3657196/public_html/premium/admin/view/seo.php on line 22
+[25-Aug-2017 05:07:24 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/seo.php on line 31
+[25-Aug-2017 05:07:24 Asia/Jakarta] PHP Notice:  Undefined index: description in /home/u3657196/public_html/premium/admin/view/seo.php on line 38
+[25-Aug-2017 08:10:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u3657196/public_html/premium/admin/controller/login.php on line 10
+[25-Aug-2017 08:10:27 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u3657196/public_html/premium/admin/controller/login.php on line 11
+[25-Aug-2017 08:10:27 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/u3657196/public_html/premium/admin/controller/login.php on line 12
+[25-Aug-2017 08:10:27 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 74
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 83
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 84
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 125
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 134
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 135
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 175
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 184
+[25-Aug-2017 08:10:35 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 185
+[25-Aug-2017 08:10:39 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:39 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:39 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:44 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:44 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:44 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:45 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:46 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:46 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:46 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:47 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:48 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:49 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:50 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:51 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:52 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:53 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:54 Asia/Jakarta] PHP Warning:  mysql_connect(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 7
+[25-Aug-2017 08:10:54 Asia/Jakarta] PHP Warning:  mysql_select_db(): No such file or directory in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:10:54 Asia/Jakarta] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/u3657196/public_html/premium/koneksi/connect.php on line 11
+[25-Aug-2017 08:13:18 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:13:18 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/menu.php on line 7
+[25-Aug-2017 08:13:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:13:18 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:13:18 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/menu.php on line 7
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:13:27 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/menu.php on line 7
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:13:29 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/menu.php on line 7
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:14:06 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/menu.php on line 7
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/menu.php on line 8
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: ok in /home/u3657196/public_html/premium/admin/controller/menu.php on line 9
+[25-Aug-2017 08:14:23 Asia/Jakarta] PHP Notice:  Undefined index: menu_custome in /home/u3657196/public_html/premium/admin/controller/menu.php on line 10
+[25-Aug-2017 14:36:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u3657196/public_html/premium/admin/controller/login.php on line 10
+[25-Aug-2017 14:36:34 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u3657196/public_html/premium/admin/controller/login.php on line 11
+[25-Aug-2017 14:36:34 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/u3657196/public_html/premium/admin/controller/login.php on line 12
+[25-Aug-2017 14:36:34 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: logout in /home/u3657196/public_html/premium/admin/controller/login.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: path in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: ext in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 13
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 74
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 83
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 84
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 125
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 134
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 135
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: halaman in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 175
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: filterby in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 184
+[25-Aug-2017 14:36:48 Asia/Jakarta] PHP Notice:  Undefined index: keyword in /home/u3657196/public_html/premium/admin/view/dashboard.php on line 185
+[25-Aug-2017 14:37:10 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 14:37:10 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/template.php on line 7
+[25-Aug-2017 14:37:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/template.php on line 8
+[25-Aug-2017 14:37:23 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/u3657196/public_html/premium/admin/main.php on line 19
+[25-Aug-2017 14:37:23 Asia/Jakarta] PHP Notice:  Undefined index: mode in /home/u3657196/public_html/premium/admin/controller/template.php on line 7
+[25-Aug-2017 14:37:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u3657196/public_html/premium/admin/controller/template.php on line 8
+[04-Dec-2018 02:59:11 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 02:59:11 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 02:59:11 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 02:59:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 02:59:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 02:59:47 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 02:59:47 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:00:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:00:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:41 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:41 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 7
+[04-Dec-2018 03:02:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:02:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:04:03 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 03:14:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:14:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/demo/sembakokita/koneksi/connect.php on line 7
+[04-Dec-2018 03:14:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/demo/sembakokita/admin/model/database.php on line 6
+[04-Dec-2018 04:20:21 Asia/Jakarta] PHP Warning:  require_once(/home/cikaran3/sembako.literasi.id/admin/model/pclzip.lib.php): failed to open stream: No such file or directory in /home/cikaran3/sembako.literasi.id/admin/controller/install.php on line 4
+[04-Dec-2018 04:20:21 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cikaran3/sembako.literasi.id/admin/model/pclzip.lib.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cikaran3/sembako.literasi.id/admin/controller/install.php on line 4
+[04-Dec-2018 04:24:52 Asia/Jakarta] PHP Warning:  unlink(assets/images/users/): Is a directory in /home/cikaran3/sembako.literasi.id/admin/view/upload.php on line 12
+[04-Dec-2018 04:24:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cikaran3/sembako.literasi.id/admin/view/header.php:167) in /home/cikaran3/sembako.literasi.id/admin/view/upload.php on line 17
+[04-Dec-2018 04:27:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cikaran3/sembako.literasi.id/admin/view/header.php:167) in /home/cikaran3/sembako.literasi.id/admin/view/upload.php on line 17
+[04-Dec-2018 04:28:14 Asia/Jakarta] PHP Fatal error:  Call to undefined function header1() in /home/cikaran3/sembako.literasi.id/admin/view/upload.php on line 17
+[04-Dec-2018 04:28:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cikaran3/sembako.literasi.id/admin/view/header.php:167) in /home/cikaran3/sembako.literasi.id/admin/view/upload.php on line 17
+[04-Dec-2018 05:08:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/cikaran3/sembako.literasi.id/admin/controller/tambah-produk.php on line 130
+[04-Dec-2018 05:08:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '../assets/produk/shutterstock-382825960-9220344.png' is not a valid JPEG file in /home/cikaran3/sembako.literasi.id/admin/controller/tambah-produk.php on line 130
+[04-Dec-2018 05:08:33 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/controller/tambah-produk.php on line 133
+[04-Dec-2018 05:08:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/controller/tambah-produk.php on line 139

@@ -1,0 +1,74 @@
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/header.php on line 68
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/header.php on line 68
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/header.php on line 68
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/header.php on line 69
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 13
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 13
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 13
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 14
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 82
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 82
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 82
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 83
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 100
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 100
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 100
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 101
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 119
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 119
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 119
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 120
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 134
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 134
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 134
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 135
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 155
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 155
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 155
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/sidebarkiri.php on line 156
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/content.php on line 21
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/content.php on line 21
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/content.php on line 21
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/content.php on line 22
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 24
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 24
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 24
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 25
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  include(koneksi/connect.php): failed to open stream: No such file or directory in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 35
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  include(koneksi/connect.php): failed to open stream: No such file or directory in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 35
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  include(): Failed opening 'koneksi/connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 35
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 42
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 42
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 42
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 44
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 45
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 45
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 45
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 51
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 51
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 51
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 51
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 52
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 52
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 52
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 52
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 53
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 53
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 53
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 53
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 54
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 54
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 54
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 54
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 55
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 55
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 55
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 55
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 57
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 57
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 57
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 57
+[03-Dec-2018 20:43:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 67
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'cikaran3'@'localhost' (using password: NO) in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 67
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 67
+[03-Dec-2018 20:43:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cikaran3/sembako.literasi.id/admin/logo/footer.php on line 68

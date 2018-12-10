@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install>
+	<template>
+		<namatemplate>Gokatalog Premium Pack 1</namatemplate>
+		<sumberfile>template/gokatalog_premium_pack1</sumberfile>
+		<pembuat>Wildan Arifin</pembuat>
+		<keterangan>Gokatalog Premium Pack 1</keterangan>
+		<gambar>gokatalog_premium_pack1/thubmnail.jpg</gambar>
+	</template>
+</install>

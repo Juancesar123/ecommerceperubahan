@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index(.*)\.html$ index.php?id=$1 [L]
+RewriteRule ^page/(.*)\.html$ page.php?id=$1 [L]
+RewriteRule ^home(.*)\.html$ index.php?id=$1 [L]
+RewriteRule ^kategori/(.*)\.html$ kategori.php?id=$1 [L]
+RewriteRule ^produk/(.*)\.html$ detailproduk.php?id=$1 [L]
+RewriteRule ^pencarian/(.*) pencarian.php?id=$1 [L]
+RewriteRule ^all/(.*)\.html$ produks.php?id=$1 [L]
+RewriteRule ^halkategori/([0-9]+)/(.*)$ kategori.php?id=$2 [L]
+RewriteRule ^pengiriman.html$ pengiriman.php?id=$1 [L]
+RewriteRule ^pembayaran.html$ pembayaran.php?id=$1 [L]
